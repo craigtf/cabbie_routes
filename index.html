@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1 shrink-to-fit=yes"/>
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <title>Black Cabbie Routes</title>
+
+</head>
+<body>
+  <style>/* Style the main header */
+  .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Adjust the container padding for mobile devices */
+@media only screen and (max-width: 767px) {
+  .container {
+    padding: 20px 10px;
+  }
+}
+
+
+h1 {
+  color: #000;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 36px;
+}
+
+/* Adjust the h1 font size for tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  h1 {
+    font-size: 48px;
+  }
+}
+
+/* Adjust the h1 font size for desktops */
+@media only screen and (min-width: 1025px) {
+  h1 {
+    font-size: 60px;
+  }
+  /* Adjust the h1 font size for mobile devices */
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 36px;
+  }
+}
+
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 24px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: #1E90FF;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Adjust the button font size and padding for tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  button {
+    font-size: 32px;
+    padding: 15px 30px;
+  }
+}
+
+/* Adjust the button font size and padding for desktops */
+@media only screen and (min-width: 1025px) {
+  button {
+    font-size: 40px;
+    padding: 20px 40px;
+  }
+}
+
+    
+    /* Style the fields container */
+    .fields-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 30px;
+    }
+    
+    .fields-container-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+    
+    /* Style the start field */
+    .start-field {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+      width: 300%;
+      color: green;
+    }
+    
+    /* Style the arrow icon */
+    .arrow {
+      font-size: 36px;
+      margin: 20px 0;
+    }
+    
+    /* Style the destination field */
+    .destination-field {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+      width: 300%;
+      color: red;
+      
+    }
+    
+    /* Style the headers above the fields */
+    .header {
+      text-align: center;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+    
+    .route-text {
+  display: block;
+  width: 100%;
+  padding: 20px;
+  font-size: 24px;
+  text-align: center;
+  white-space: pre-wrap; /* Make the text wrap onto multiple lines */
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease-in-out;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+/* Adjust the font size and padding for the route-text class on mobile devices */
+@media only screen and (max-width: 600px) {
+  .route-text {
+    padding: 15px;
+    font-size: 24px;
+  }
+}
+/* Make fields wider for mobile devices */
+@media only screen and (max-width: 600px) {
+  .start-field,
+  .destination-field {
+    width: 90%;
+  }
+}
+
+
+
+/* Reduce font size and padding for fields on mobile devices */
+@media only screen and (max-width: 600px) {
+  input[type="text"] {
+    padding: 15px;
+    font-size: 16px;
+  }
+}
+.start-field,
+.destination-field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* Adjust the width of the fields for larger devices */
+@media only screen and (min-width: 768px) {
+  .start-field,
+  .destination-field {
+    width: 50%;
+  }
+}
+
+
+    
+    input[type="text"]:focus {
+      outline: none;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+    
+    /* Increase font size and add padding to buttons for mobile devices */
+    @media only screen and (max-width: 600px) {
+      button {
+        font-size: 32px;
+        padding: 15px 30px;
+      }
+      
+      /* Make fields wider for mobile devices */
+      .start-field,
+      .destination-field {
+        width: 80%;
+      }
+    
+      /* Add margin to fields for mobile devices */
+      .start-field {
+        margin-bottom: 15px;
+      }
+    
+      .destination-field {
+        margin-top: 15px;
+      }
+    
+      /* Decrease font size and padding for fields for mobile devices */
+      .header {
+        font-size: 24px;
+        margin-bottom: 5px;
+      }
+    
+      input[type="text"] {
+        padding: 15px;
+        font-size: 24px;
+      }
+    
+      /* Decrease arrow size for mobile devices */
+      .arrow {
+        font-size: 24px;
+        margin: 10px 0;
+      }
+    }
+    </style>
+  <div class="container">
+    <h1>Cabbie Routes</h1>
+
+    <button onclick="newRoute()">New Route</button>
+
+    <div class="fields-container-container">
+      <div class="fields-container">
+        <div class="start-field">
+          <div class="header">START POINT</div>
+          <div class="route-text" id="start"></div>
+        </div>
+
+        <div class="arrow">&darr;</div>
+
+        <div class="destination-field">
+          <div class="header">DESTINATION</div>
+          <div class="route-text" id="destination"></div>
+      </div>
+    </div>
+    </div>
+    <div>
+  </div>
+  <script>
+    
+    async function loadLocations() {
+  const response1 = await fetch("locations3.geojson");
+  const data1 = await response1.json();
+  const response2 = await fetch("manuallocations.json");
+  const data2 = await response2.json();
+
+  const features = data1.features.concat(data2.features);
+  const locations = [];
+
+  for (let i = 0; i < features.length; i++) {
+    const properties = features[i].properties;
+    const name = properties.name;
+    const amenity = properties.amenity;
+    const diplomatic = properties.diplomatic;
+    const road = properties["addr:street"];
+    const postcode = properties["addr:postcode"];
+    const isSubwayStation = properties["station"] === "subway";
+    const isManualLocation = properties["manual"] === true;
+
+    if (isSubwayStation) {
+      locations.push({
+        name: name,
+        type: 'subway',
+      });
+    } else if (diplomatic === "embassy") {
+      locations.push({
+        name: `${name}, ${road}`, // Include the street name for embassies
+        type: diplomatic,
+        road: null,
+        postcode: null
+      });
+    } else if (isManualLocation) {
+      locations.push({
+        name: name,
+        type: amenity || null,
+        road: null,
+        postcode: null
+      });
+    } else if ((name && road && postcode) || (!name && road && postcode)) {
+      locations.push({
+        name: name || amenity,
+        type: name && amenity ? amenity : null,
+        road: road,
+        postcode: postcode
+      });
+    }
+  }
+
+  return locations;
+}
+
+
+
+
+function isLocationPairAllowed(startType, destinationType) {
+  return (
+    !(startType === "subway" && destinationType === "subway") &&
+    !(startType === "restaurant" && destinationType === "cafe") &&
+    !(startType === "cafe" && destinationType === "restaurant") &&
+    !(startType === "cafe" && destinationType === "pub") &&
+    !(startType === "pub" && destinationType === "cafe") &&
+    !(startType === "cafe" && destinationType === "cafe") &&
+    !(startType === "restaurant" && destinationType === "restaurant")
+  );
+}
+
+
+
+
+async function newRoute() {
+  const locations = await loadLocations();
+
+  // Pick two random locations from the locations array
+  const start = locations[Math.floor(Math.random() * locations.length)];
+  let destination = locations[Math.floor(Math.random() * locations.length)];
+
+  // If the randomly selected start and destination are the same or not allowed, re-pick the destination
+  while (start === destination || !isLocationPairAllowed(start.type, destination.type)) {
+    destination = locations[Math.floor(Math.random() * locations.length)];
+  }
+
+  // Set the textContent of the start and destination elements
+  document.getElementById("start").textContent = formatLocation(start);
+  document.getElementById("destination").textContent = formatLocation(destination);
+}
+
+
+
+function formatLocation(location) {
+  let name = location.name || "";
+  let type = location.type || "";
+  let road = location.road || "";
+  let postcode = location.postcode || "";
+
+  // Check if the location is a tube station
+  if (type === "subway") {
+    return `${name} tube station`;
+  } else {
+    let locationString = `${name}`;
+    if (type && type !== "embassy") {
+      locationString += ` ${type}`;
+    }
+    // Add road for all location types, including embassies
+    if (road) {
+      locationString += `, ${road}`;
+    }
+    if (postcode) {
+      locationString += `, ${postcode}`;
+    }
+    return locationString;
+  }
+}
+
+
+
+
+
+
+  
+    const button = document.querySelector("button");
+    button.addEventListener("click", newRoute);
+  </script>
+  
+  
+
+</body>
+</html>

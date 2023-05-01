@@ -1,0 +1,2637 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adelphi",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Aldwych",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ambassadors",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apollo",
+          "amenity": "Theatre"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apollo Victoria",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arts",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cambridge",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Criterion",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dominion",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Duchess",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Duke of York's",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fortune",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Garrick",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gielgud",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gillian Lynne",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Harold Pinter",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Her Majesty's",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ambassadors",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "London Coliseum",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "London Palladium",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lyceum",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lyric",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Noel Coward",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Novello",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Palace",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Phoenix",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Piccadilly",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Playhouse",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Prince Edward",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Prince of Wales",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Savoy",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shaftesbury",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sondheim",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St Martin's",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Theatre Royal Drury Lane",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Theatre Royal Haymarket",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Trafalgar",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vaudeville",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Victoria Palace",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wyndham's",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Globe",
+          "amenity": "Theatre",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Ritz",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Savoy",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Langham",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Ned",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Shangri-La",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Cadogan",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Claridge’s",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Royal Horseguards",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mandarin Oriental",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bankside",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Standard",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Four Seasons, Park Lane",
+          "amenity": "Hotel ",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Stafford",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "41, Victoria",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Carlton Tower Jumeirah",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chiltern Firehouse",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Four Seasons Ten Trinity",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nobu Portman Square",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Milestone",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "45 Park Lane",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Beaumont",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Berkeley",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St Pancras Renaissance",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Connaught",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Landmark London",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "ME London",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Dorchester",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brown's",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bulgari",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Corinthia",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dukes London",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Goring",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ham Yard",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Café Royal",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Kensington",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Lanesborough",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "One Aldwych",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pan Pacific London",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sea Containers London",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Stafford",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Leicester",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Trafalgar",
+          "amenity": "Hotel",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Soho",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cavendish",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Belgrave",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Saint James's",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St George's",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Grovesnor",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Parliament",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bedford",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hanover",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tavistock",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chester",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Charterhouse",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Russell",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sloane",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bloomsbury",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Eaton",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Golden",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Claremont",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Drapers",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Skinners",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Mercers",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Goldsmiths",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Stationers and Newspaper Makers",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "City of London Solicitors' Company",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Fishmongers",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Merchant Taylors",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Scriveners",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Fan Makers",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Worshipful Company of Musicians",
+          "amenity": "Livery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Highgate",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nunhead",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Abney Park",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Islington & St Pancras",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brockley & Ladywell",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Putney Vale",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwich",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lambeth",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Richmond",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Royal Borough of Kensington and Chelsea",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gunnersbury",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Charlton",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Southgate",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "East Sheen",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St Mary's Catholic",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gap Road",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fulham",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brompton",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "West Norwood",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bunhill Fields Burial Ground",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chingford Mount",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hyde Park Pet",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Old Burial Ground",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hither Green",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Streatham Cemetery",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Borough",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brookwood",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fulham (North Sheen)",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Grove Park",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Acton",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Woolwich",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Camberwell Old",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Willesden New",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kensal Green",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tower Hamlets Park",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "City of London",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "East Finchley",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Moravian Burial Ground",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Margravine",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Plumstead",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "New Southgate",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Camberwell New",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hampstead",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Barnes",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "West Ham",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Isleworth",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Paddington Old",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "South Ealing",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Queen's Road",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wandsworth",
+          "amenity": "Cemetery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Houses of",
+          "amenity": "Parliament",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bacchanalia restaurant, Mount St",
+          "amenity": "W1K 3NA",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Buckingham",
+          "amenity": "Palace",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Selfridges",
+          "amenity": "Department Store",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fortnum & Masons",
+          "amenity": "Store",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "John Lewis",
+          "amenity": "Oxford St, W1C 1DX",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Debenhams",
+          "amenity": "Oxford St, 1JG",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Covent Garden",
+          "amenity": "WC2",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sexy Fish",
+          "amenity": "Berkeley Square, W1J 6BR",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Berkeley",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St Pauls",
+          "amenity": "Cathedral",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Berkeley",
+          "amenity": "Square",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tower of",
+          "amenity": "London",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Millenium",
+          "amenity": "Wheel/eye",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tower",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Millenium",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "02",
+          "amenity": "Arena",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wembley",
+          "amenity": "Stadium",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blackfriars",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Southwark",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Waterloo",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lambeth",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Westminster",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Albert",
+          "amenity": "Bridge",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Old Bailey",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Southwark Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Inner London Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wood Green Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Snaresbrook Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Woolwich Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "City of London Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Central Criminal",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Willesden County",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Westminster Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Isleworth Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Central London County",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lavender Hill Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Highbury Corner Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kingston-upon-Thames Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Thames Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Croydon Crown",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wimbledon Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Highbury Corner Magistrates'",
+          "amenity": "Court",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Natural History",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Science'",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Transport",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Victoria and Albert",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The British",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The National",
+          "amenity": "Gallery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "National Portrait",
+          "amenity": "Gallery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Churchill War Rooms",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tate Modern",
+          "amenity": "Gallery",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Imperial War",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Postal",
+          "amenity": "Museum",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Madame",
+          "amenity": "Tussauds",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "HMS Belfast",
+          "amenity": "River Thames",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Museum of London",
+          "amenity": "Barbican",
+          "manual": true
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [null, null]
+        }
+      }
+    ]
+  }
+  
